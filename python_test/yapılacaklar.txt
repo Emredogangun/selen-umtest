@@ -1,0 +1,14 @@
+giris yap
+kayıt ol
+yorum yap
+şifremi unuttum 
+sepet
+*çıkıs yap
+1.giris yap
+2.ara
+3.bır tanesine tıka
+4. sepete ekele
+5.sepeti kapat
+6.sepete git
+7.sepettekileri sil
+8.çıkıs yap
